@@ -1,0 +1,9 @@
+D:\Onedrive\개인\한글패치병합\bin\Release\한글패치병합.exe.config
+D:\Onedrive\개인\한글패치병합\bin\Release\한글패치병합.exe
+D:\Onedrive\개인\한글패치병합\bin\Release\한글패치병합.pdb
+D:\Onedrive\개인\한글패치병합\obj\Release\한글패치병합.Form1.resources
+D:\Onedrive\개인\한글패치병합\obj\Release\한글패치병합.Properties.Resources.resources
+D:\Onedrive\개인\한글패치병합\obj\Release\한글패치병합.csproj.GenerateResource.Cache
+D:\Onedrive\개인\한글패치병합\obj\Release\한글패치병합.exe
+D:\Onedrive\개인\한글패치병합\obj\Release\한글패치병합.pdb
+D:\Onedrive\개인\한글패치병합\obj\Release\한글패치병합.csprojResolveAssemblyReference.cache
